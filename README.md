@@ -1,4 +1,4 @@
-# # Multi-Agent Job Search Framework
+# # Multi-Agent Job Search Automation
 
 ## Overview
 This project is a **from-scratch implementation** of a **multi-agent system** for educational purposes. It demonstrates how multiple AI agents can collaborate to analyze resumes, categorize job opportunities, and search for relevant job listings on the internet using **Google's Gemini API**.
@@ -25,8 +25,8 @@ This project is a **from-scratch implementation** of a **multi-agent system** fo
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/multi-agent-job-search.git
-   cd multi-agent-job-search
+   git clone https://github.com/haruiz/job-matching-app
+   cd job-matching-app
    ```
 2. Install dependencies:
    ```sh
